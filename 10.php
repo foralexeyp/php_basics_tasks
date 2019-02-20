@@ -1,5 +1,5 @@
 <?php
-$day = 6;
+$day = 3;
 switch ($day) {
     case 1 :
         echo 'Это рабочий день';
