@@ -7,6 +7,6 @@ if ($age >= 18) {
 elseif ($age >= 59) {
     echo 'Вам пора на пенсию';
 }
-elseif ($age >= 0 & $age <= 17) {
+elseif ($age >= 0 && $age <= 17) {
     echo 'Вам еще рано работать';
 }
