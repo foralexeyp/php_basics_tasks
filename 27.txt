@@ -1,1 +1,1 @@
-php 4.php
+php -r '$age = 46; echo  "Мне $age лет";'
