@@ -1,3 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>24</title>
+</head>
+<body>
+
+</body>
+</html>
+
+<p>24. Создайте в файле 3 комментария тремя разными типами.</p>
+
 <?php
 
 // Односточный комментарий
