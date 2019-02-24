@@ -1,3 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>16</title>
+</head>
+<body>
+
+</body>
+</html>
+
+<p>16. Создайте две переменные $a и $b, значения которых будут числами. Выведите максимальное число из этих двух.</p>
+
 <?php
 $a = -34;
 $b = 34;
